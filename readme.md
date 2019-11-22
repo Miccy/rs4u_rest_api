@@ -1,0 +1,2 @@
+- Json provider: https://my-json-server.typicode.com/
+- Url: https://my-json-server.typicode.com/Miccy/rs4u_rest_api
